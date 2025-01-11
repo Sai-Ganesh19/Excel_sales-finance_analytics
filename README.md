@@ -63,6 +63,6 @@ This repository contains the following key resources:
 2. **Finance Analytics Report**: Detailed P&L breakdowns across fiscal years and months.  
 
 **Links to Reports:**
-- [Sales Analytics Report]([https://github.com/YourUsername/RepoName/Sales_Analytics_Report.pdf](https://github.com/Sai-Ganesh19/Excel_sales-finance_analytics/blob/main/SALES%20ANALYTICS%20FULL%20PROJECT.pdf))  
-- [Finance Analytics Report]([https://github.com/YourUsername/RepoName/Finance_Analytics_Report.pdf](https://github.com/Sai-Ganesh19/Excel_sales-finance_analytics/blob/main/FINANCE%20ANALYTICS%20FULL%20PROJECT.pdf))  
-Feel free to explore and share your thoughts on how these insights can drive impactful decision-making!
+- [Sales Analytics Report](https://github.com/Sai-Ganesh19/Excel_sales-finance_analytics/blob/main/SALES%20ANALYTICS%20FULL%20PROJECT.pdf)  
+- [Finance Analytics Report](https://github.com/Sai-Ganesh19/Excel_sales-finance_analytics/blob/main/FINANCE%20ANALYTICS%20FULL%20PROJECT.pdf)  
+
